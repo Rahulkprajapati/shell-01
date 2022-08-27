@@ -8,12 +8,12 @@
 # maintained and created by user no strict to use cases
 
 # // sytem defiend variable $ //
-echo $BASH   
-echo $BASH_VERSION
-echo $HOME
-echo $PWD
+echo my shell name $BASH   
+echo shell version $BASH_VERSION
+echo home dir $HOME
+echo present working dir $PWD
 
 #User defined variable
 
 city=banglore               #variable assigne
-echo Karnataka capital $city
+echo Karnataka capital is $city
