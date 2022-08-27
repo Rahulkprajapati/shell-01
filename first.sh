@@ -1,3 +1,2 @@
-#!/bin/sh
-
+#!/bin/bash       //comment//
 echo "Hello world"
