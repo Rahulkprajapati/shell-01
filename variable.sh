@@ -14,6 +14,7 @@ echo home dir $HOME
 echo present working dir $PWD
 
 #User defined variable
-
+#variable name should not start with number
 city=banglore               #variable assigne
-echo Karnataka capital is $city
+AQI = 400
+echo Karnataka capital is $city and its air quality index is $AQI
