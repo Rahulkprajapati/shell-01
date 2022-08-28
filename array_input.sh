@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # echo "Enter services name: "
-# read -a services             # -a flag to enter values as array format
+# read -a services             # -a flag to enter values as array format[list]
 # echo "Selected Services are: ${services[0]}, ${services[1]}"
 
 echo "Enter services name: "

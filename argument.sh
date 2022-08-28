@@ -1,4 +1,4 @@
-#how to parse argument
+#how to pass argument
 #they are stored in defalut agrumnet consecutive increament of [$1+] e.g. $1 $2 $3 ....
 
 
@@ -14,3 +14,4 @@ echo $0 $1 $2 $3 '> echo $1 $2 $3'
 
 # ➜ ./argument.sh rahul rohan dev
 # ./argument.sh rahul rohan dev > echo $1 $2 $3
+
