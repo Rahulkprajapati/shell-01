@@ -15,6 +15,7 @@ if [ $count -eq 10 ]
 then
     echo "satisfied"
     if [ "$word" = "thor" ]                   #you can use == or single = both
+                                              # Need to use double [[]] 
     then
         echo "True"
     else
